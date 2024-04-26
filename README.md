@@ -2,7 +2,7 @@
 
 GitHub Seach Engine est un moteur de recherche permettant de trouver des repositories sur Github. 
 
-##Objectif
+## Objectif
 
 L'objectif de ce projet était de travailler les appels API avec Axios, et se familiariser avec la bibliothèque Semantic UI.
 
