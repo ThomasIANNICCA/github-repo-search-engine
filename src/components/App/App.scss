@@ -1,0 +1,15 @@
+.App {
+  margin: 0 auto;
+  background-color: #ecf0f1;
+  padding: 1rem;
+  width: 900px;
+  min-height: 100vh;
+
+  .logo {
+    text-align: center;
+
+    img {
+      width: 150px;
+    }
+  }
+}
